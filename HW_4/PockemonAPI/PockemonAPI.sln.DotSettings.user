@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9155656c_002D720a_002D4f16_002Dae33_002Da3e67f691d3a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetByIdOrName_WhenIdIsProvided_ReturnsPokemon" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::51281309-9FC8-48E4-8D37-F8454C687EDF::net7.0::PockemonAPI.IntegrationsTests.PockemonControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a44d8f81_002D9b37_002D4bcc_002D8efe_002Dc3a257e280d0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAll_WhenNoPageAndCount_ReturnsAllPokemons" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::51281309-9FC8-48E4-8D37-F8454C687EDF::net7.0::PockemonAPI.IntegrationsTests.PockemonControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a66d762b_002D5ceb_002D400f_002D8180_002D66a14ea0ec9d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestGetSum" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::51281309-9FC8-48E4-8D37-F8454C687EDF::net7.0::PockemonAPI.IntegrationsTests.PockemonControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f2f40ea5_002Dfd9e_002D4af5_002D9aee_002D5c92da695d7c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetByFilter_WhenNoPageAndCount_ReturnsStatusCode200" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::51281309-9FC8-48E4-8D37-F8454C687EDF::net7.0::PockemonAPI.IntegrationsTests.PockemonControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

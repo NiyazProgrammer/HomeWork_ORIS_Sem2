@@ -1,0 +1,17 @@
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/bin/Debug/net7.0/MyServiceApi
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/bin/Debug/net7.0/MyServiceApi.deps.json
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/bin/Debug/net7.0/MyServiceApi.runtimeconfig.json
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/bin/Debug/net7.0/MyServiceApi.dll
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/bin/Debug/net7.0/MyServiceApi.pdb
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/obj/Debug/net7.0/MyServiceApi.csproj.AssemblyReference.cache
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/obj/Debug/net7.0/MyServiceApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/obj/Debug/net7.0/MyServiceApi.AssemblyInfoInputs.cache
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/obj/Debug/net7.0/MyServiceApi.AssemblyInfo.cs
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/obj/Debug/net7.0/MyServiceApi.csproj.CoreCompileInputs.cache
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/obj/Debug/net7.0/MyServiceApi.dll
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/obj/Debug/net7.0/refint/MyServiceApi.dll
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/obj/Debug/net7.0/MyServiceApi.pdb
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/obj/Debug/net7.0/MyServiceApi.genruntimeconfig.cache
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/obj/Debug/net7.0/ref/MyServiceApi.dll
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/niyazrizvanov/Downloads/PockemonAPI/MyServiceApi/obj/Debug/net7.0/MyServiceApi.csproj.CopyComplete

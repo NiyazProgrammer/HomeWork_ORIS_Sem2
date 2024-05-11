@@ -1,0 +1,12 @@
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Infrastructure/bin/Release/net8.0/TeamHost.Infrastructure.deps.json
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Infrastructure/bin/Release/net8.0/TeamHost.Infrastructure.dll
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Infrastructure/bin/Release/net8.0/TeamHost.Infrastructure.pdb
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Infrastructure/obj/Release/net8.0/TeamHost.Infrastructure.csproj.AssemblyReference.cache
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Infrastructure/obj/Release/net8.0/TeamHost.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Infrastructure/obj/Release/net8.0/TeamHost.Infrastructure.AssemblyInfoInputs.cache
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Infrastructure/obj/Release/net8.0/TeamHost.Infrastructure.AssemblyInfo.cs
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Infrastructure/obj/Release/net8.0/TeamHost.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Infrastructure/obj/Release/net8.0/TeamHost.Infrastructure.dll
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Infrastructure/obj/Release/net8.0/refint/TeamHost.Infrastructure.dll
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Infrastructure/obj/Release/net8.0/TeamHost.Infrastructure.pdb
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Infrastructure/obj/Release/net8.0/ref/TeamHost.Infrastructure.dll

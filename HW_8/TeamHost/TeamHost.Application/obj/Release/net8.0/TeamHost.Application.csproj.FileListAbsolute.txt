@@ -1,0 +1,15 @@
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Application/bin/Release/net8.0/TeamHost.Application.deps.json
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Application/bin/Release/net8.0/TeamHost.Application.dll
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Application/bin/Release/net8.0/TeamHost.Application.pdb
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Application/bin/Release/net8.0/TeamHost.Domain.dll
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Application/bin/Release/net8.0/TeamHost.Domain.pdb
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Application/obj/Release/net8.0/TeamHost.Application.csproj.AssemblyReference.cache
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Application/obj/Release/net8.0/TeamHost.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Application/obj/Release/net8.0/TeamHost.Application.AssemblyInfoInputs.cache
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Application/obj/Release/net8.0/TeamHost.Application.AssemblyInfo.cs
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Application/obj/Release/net8.0/TeamHost.Application.csproj.CoreCompileInputs.cache
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Application/obj/Release/net8.0/TeamHost.E105D446.Up2Date
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Application/obj/Release/net8.0/TeamHost.Application.dll
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Application/obj/Release/net8.0/refint/TeamHost.Application.dll
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Application/obj/Release/net8.0/TeamHost.Application.pdb
+/Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Application/obj/Release/net8.0/ref/TeamHost.Application.dll
