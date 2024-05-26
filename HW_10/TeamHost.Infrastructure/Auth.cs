@@ -4,7 +4,7 @@ using TeamHost.Infrastructure.Services;
 
 namespace TeamHost.Infrastructure;
 
-public static class Entry
+public static class Auth
 {
     public static void AddInfrastructure(this IServiceCollection serviceCollection)
     {
