@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Persistence/TeamHost.Persistence.csproj": {}
+    "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Persistence/TeamHost.Persistence.csproj": {}
   },
   "projects": {
-    "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Application/TeamHost.Application.csproj": {
+    "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Application/TeamHost.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Application/TeamHost.Application.csproj",
+        "projectUniqueName": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Application/TeamHost.Application.csproj",
         "projectName": "TeamHost.Application",
-        "projectPath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Application/TeamHost.Application.csproj",
+        "projectPath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Application/TeamHost.Application.csproj",
         "packagesPath": "/Users/niyazrizvanov/.nuget/packages/",
-        "outputPath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Application/obj/",
+        "outputPath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/niyazrizvanov/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj": {
-                "projectPath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj"
+              "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj": {
+                "projectPath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj": {
+    "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj",
+        "projectUniqueName": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj",
         "projectName": "TeamHost.Domain",
-        "projectPath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj",
+        "projectPath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj",
         "packagesPath": "/Users/niyazrizvanov/.nuget/packages/",
-        "outputPath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Domain/obj/",
+        "outputPath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/niyazrizvanov/.nuget/NuGet/NuGet.Config"
@@ -152,14 +152,14 @@
         }
       }
     },
-    "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Persistence/TeamHost.Persistence.csproj": {
+    "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Persistence/TeamHost.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Persistence/TeamHost.Persistence.csproj",
+        "projectUniqueName": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Persistence/TeamHost.Persistence.csproj",
         "projectName": "TeamHost.Persistence",
-        "projectPath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Persistence/TeamHost.Persistence.csproj",
+        "projectPath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Persistence/TeamHost.Persistence.csproj",
         "packagesPath": "/Users/niyazrizvanov/.nuget/packages/",
-        "outputPath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Persistence/obj/",
+        "outputPath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/niyazrizvanov/.nuget/NuGet/NuGet.Config"
@@ -175,11 +175,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Application/TeamHost.Application.csproj": {
-                "projectPath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Application/TeamHost.Application.csproj"
+              "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Application/TeamHost.Application.csproj": {
+                "projectPath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Application/TeamHost.Application.csproj"
               },
-              "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj": {
-                "projectPath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj"
+              "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj": {
+                "projectPath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj"
               }
             }
           }

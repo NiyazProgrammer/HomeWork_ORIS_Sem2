@@ -778,11 +778,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj",
+      "projectUniqueName": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj",
       "projectName": "TeamHost.Domain",
-      "projectPath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj",
+      "projectPath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj",
       "packagesPath": "/Users/niyazrizvanov/.nuget/packages/",
-      "outputPath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Domain/obj/",
+      "outputPath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/niyazrizvanov/.nuget/NuGet/NuGet.Config"

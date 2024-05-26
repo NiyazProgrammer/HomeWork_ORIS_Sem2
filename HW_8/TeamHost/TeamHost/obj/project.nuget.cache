@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "37sXlz8wXZckX2gOR/FNV62fxKKzEPekKZ2hvm5/UI2NegrQDrcZ8KZa7kSYalTYm0GEPNzRWweID7q3e6T80g==",
+  "dgSpecHash": "0+Y2sXu9jMFJbGg8DNDr1Td1Yiqc4ckGCS99HW1ggJ7ctUGoxzGFnDTgorCqlPvcIv+CjNKps6HvbLkmkAo6Pg==",
   "success": true,
-  "projectFilePath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost/TeamHost.Web.csproj",
+  "projectFilePath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost/TeamHost.Web.csproj",
   "expectedPackageFiles": [
     "/Users/niyazrizvanov/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/niyazrizvanov/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",

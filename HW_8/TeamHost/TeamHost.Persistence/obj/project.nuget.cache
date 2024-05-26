@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wrx54P5uxTMjX0lv01MAFwVY7YTSC+G3uhA29P6UHVVRSoPAbSsT1FyU30oWUydF+tbzUPu4Fu5dVRSknmcCuw==",
+  "dgSpecHash": "TtIeiTqNC9B+Ea3REqwCz8OkCyyphX5d775rgZq59uTdjqH6In3jsp8PmB3aLxob2cmG2TqYTsmYY5FBm859qA==",
   "success": true,
-  "projectFilePath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Persistence/TeamHost.Persistence.csproj",
+  "projectFilePath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Persistence/TeamHost.Persistence.csproj",
   "expectedPackageFiles": [
     "/Users/niyazrizvanov/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/niyazrizvanov/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",

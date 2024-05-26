@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TeamHost
+build_property.RootNamespace = TeamHost
+build_property.ProjectDir = /Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Areas/Account/Views/Chat/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWNjb3VudC9WaWV3cy9DaGF0L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Areas/Account/Views/Favourite/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWNjb3VudC9WaWV3cy9GYXZvdXJpdGUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Areas/Account/Views/Friend/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWNjb3VudC9WaWV3cy9GcmllbmQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Areas/Account/Views/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWNjb3VudC9WaWV3cy9Qcm9maWxlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Areas/Account/Views/Wallet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWNjb3VudC9WaWV3cy9XYWxsZXQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Areas/Main/Views/Community/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFpbi9WaWV3cy9Db21tdW5pdHkvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Areas/Main/Views/Live/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFpbi9WaWV3cy9MaXZlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Areas/Main/Views/Market/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFpbi9WaWV3cy9NYXJrZXQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Areas/Main/Views/Store/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFpbi9WaWV3cy9TdG9yZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Areas/Main/Views/Stream/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFpbi9WaWV3cy9TdHJlYW0vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Areas/Account/Views/Profile/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWNjb3VudC9WaWV3cy9Qcm9maWxlL0VkaXRQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Areas/Account/Views/Profile/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWNjb3VudC9WaWV3cy9Qcm9maWxlL0xvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Areas/Account/Views/Profile/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWNjb3VudC9WaWV3cy9Qcm9maWxlL1JlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Areas/Home/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSG9tZS9WaWV3cy9Ib21lL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Areas/Main/Views/Store/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFpbi9WaWV3cy9TdG9yZS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Views/Shared/Support/_HelpPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1N1cHBvcnQvX0hlbHBQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Views/Shared/Support/_ReportPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1N1cHBvcnQvX1JlcG9ydFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Views/Shared/_ChatMessageBoxPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19DaGF0TWVzc2FnZUJveFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Views/Shared/_ChatsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19DaGF0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Views/Shared/_HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Views/Shared/_NavBarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19OYXZCYXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.WEB/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hir2exmezp

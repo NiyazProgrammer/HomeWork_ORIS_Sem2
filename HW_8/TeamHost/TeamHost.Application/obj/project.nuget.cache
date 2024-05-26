@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iu8svWChd3fokBm3jY6jsPAV1hYRTLojzngX/vS/9YD0Dd73tcOC/S3/R54FNxGZnwKEBe2lV1uX/bUHynCY7g==",
+  "dgSpecHash": "wEmb/p06FQtnoVOSv+rMhT9SrIcp3hO9chqOb2kqjZEi6ALpZ769Jw8VitlW5CbaxEwjTSOPTjg1IMemlY+QBQ==",
   "success": true,
-  "projectFilePath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Application/TeamHost.Application.csproj",
+  "projectFilePath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Application/TeamHost.Application.csproj",
   "expectedPackageFiles": [
     "/Users/niyazrizvanov/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/niyazrizvanov/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",

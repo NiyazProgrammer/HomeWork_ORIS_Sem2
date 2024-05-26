@@ -21,3 +21,16 @@ C:/Users/timer/source/repos/TeamHost/TeamHost.Shared/obj/Debug/net8.0/ref/TeamHo
 /Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Shared/obj/Debug/net8.0/refint/TeamHost.Shared.dll
 /Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Shared/obj/Debug/net8.0/TeamHost.Shared.pdb
 /Users/niyazrizvanov/Downloads/TeamHost/TeamHost.Shared/obj/Debug/net8.0/ref/TeamHost.Shared.dll
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Shared/bin/Debug/net8.0/TeamHost.Shared.deps.json
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Shared/bin/Debug/net8.0/TeamHost.Shared.dll
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Shared/bin/Debug/net8.0/TeamHost.Shared.pdb
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Shared/obj/Debug/net8.0/TeamHost.Shared.csproj.AssemblyReference.cache
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Shared/obj/Debug/net8.0/TeamHost.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Shared/obj/Debug/net8.0/TeamHost.Shared.AssemblyInfoInputs.cache
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Shared/obj/Debug/net8.0/TeamHost.Shared.AssemblyInfo.cs
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Shared/obj/Debug/net8.0/TeamHost.Shared.csproj.CoreCompileInputs.cache
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Shared/obj/Debug/net8.0/TeamHost.Shared.sourcelink.json
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Shared/obj/Debug/net8.0/TeamHost.Shared.dll
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Shared/obj/Debug/net8.0/refint/TeamHost.Shared.dll
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Shared/obj/Debug/net8.0/TeamHost.Shared.pdb
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Shared/obj/Debug/net8.0/ref/TeamHost.Shared.dll

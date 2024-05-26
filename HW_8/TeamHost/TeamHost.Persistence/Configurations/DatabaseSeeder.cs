@@ -19,7 +19,7 @@ namespace TeamHost.Persistence.Configurations
                     Description="Стратегии"
                 },
                  new Category {
-                    Id=2,
+                     Id=2,
                     Code="adventure",
                     Name="Adventure",
                     Description="Приключенческие игры"
@@ -294,6 +294,5 @@ namespace TeamHost.Persistence.Configurations
                 new Country( 245, 392, "ЯПОНИЯ", "ЯПОНИЯ", "JP", "JPN")
             ];
         }
-
     }
 }

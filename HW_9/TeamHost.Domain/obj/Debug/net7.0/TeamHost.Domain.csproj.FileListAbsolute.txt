@@ -1,0 +1,14 @@
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Domain/bin/Debug/net7.0/Entities/Platform.cs
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Domain/bin/Debug/net7.0/TeamHost.Domain.deps.json
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Domain/bin/Debug/net7.0/TeamHost.Domain.dll
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Domain/bin/Debug/net7.0/TeamHost.Domain.pdb
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Domain/obj/Debug/net7.0/TeamHost.Domain.csproj.AssemblyReference.cache
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Domain/obj/Debug/net7.0/TeamHost.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Domain/obj/Debug/net7.0/TeamHost.Domain.AssemblyInfoInputs.cache
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Domain/obj/Debug/net7.0/TeamHost.Domain.AssemblyInfo.cs
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Domain/obj/Debug/net7.0/TeamHost.Domain.csproj.CoreCompileInputs.cache
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Domain/obj/Debug/net7.0/TeamHost.Domain.sourcelink.json
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Domain/obj/Debug/net7.0/TeamHost.Domain.dll
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Domain/obj/Debug/net7.0/refint/TeamHost.Domain.dll
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Domain/obj/Debug/net7.0/TeamHost.Domain.pdb
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Domain/obj/Debug/net7.0/ref/TeamHost.Domain.dll

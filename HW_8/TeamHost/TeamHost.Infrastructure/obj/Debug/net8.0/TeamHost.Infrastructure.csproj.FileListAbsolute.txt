@@ -34,3 +34,16 @@ C:/Users/timer/source/repos/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/re
 /Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/refint/TeamHost.Infrastructure.dll
 /Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.pdb
 /Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/ref/TeamHost.Infrastructure.dll
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.deps.json
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.dll
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.pdb
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.csproj.AssemblyReference.cache
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.AssemblyInfoInputs.cache
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.AssemblyInfo.cs
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.sourcelink.json
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.dll
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/refint/TeamHost.Infrastructure.dll
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.pdb
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/ref/TeamHost.Infrastructure.dll

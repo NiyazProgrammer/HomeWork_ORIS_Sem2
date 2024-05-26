@@ -197,11 +197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Infrastructure/TeamHost.Infrastructure.csproj",
+      "projectUniqueName": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/TeamHost.Infrastructure.csproj",
       "projectName": "TeamHost.Infrastructure",
-      "projectPath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Infrastructure/TeamHost.Infrastructure.csproj",
+      "projectPath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/TeamHost.Infrastructure.csproj",
       "packagesPath": "/Users/niyazrizvanov/.nuget/packages/",
-      "outputPath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Infrastructure/obj/",
+      "outputPath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/niyazrizvanov/.nuget/NuGet/NuGet.Config"

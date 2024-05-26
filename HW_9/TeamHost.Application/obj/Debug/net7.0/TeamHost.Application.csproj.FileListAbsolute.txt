@@ -1,0 +1,17 @@
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/bin/Debug/net7.0/Entities/Platform.cs
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/bin/Debug/net7.0/TeamHost.Application.deps.json
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/bin/Debug/net7.0/TeamHost.Application.dll
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/bin/Debug/net7.0/TeamHost.Application.pdb
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/bin/Debug/net7.0/TeamHost.Domain.dll
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/bin/Debug/net7.0/TeamHost.Domain.pdb
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/obj/Debug/net7.0/TeamHost.Application.csproj.AssemblyReference.cache
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/obj/Debug/net7.0/TeamHost.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/obj/Debug/net7.0/TeamHost.Application.AssemblyInfoInputs.cache
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/obj/Debug/net7.0/TeamHost.Application.AssemblyInfo.cs
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/obj/Debug/net7.0/TeamHost.Application.csproj.CoreCompileInputs.cache
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/obj/Debug/net7.0/TeamHost.Application.sourcelink.json
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/obj/Debug/net7.0/TeamHost.E105D446.Up2Date
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/obj/Debug/net7.0/TeamHost.Application.dll
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/obj/Debug/net7.0/refint/TeamHost.Application.dll
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/obj/Debug/net7.0/TeamHost.Application.pdb
+/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_9/TeamHost.Application/obj/Debug/net7.0/ref/TeamHost.Application.dll

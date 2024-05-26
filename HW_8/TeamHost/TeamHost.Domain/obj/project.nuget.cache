@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lRL8vPvjUE2emUTOL+esOT7fHSItQFB0UhpHdN3fkdw2pXy6HrAwUhufviYb9QH+EWMA1m7hbdIgombl+tctbQ==",
+  "dgSpecHash": "EKDiYQQZLWUgvoMSefIodl2eBLeG2yJVL+G/b9F4b4D2aNHjFV6ZdQ0X3wps0rSSVP6SwT7PFlf6uCqdNU4AMA==",
   "success": true,
-  "projectFilePath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj",
+  "projectFilePath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Domain/TeamHost.Domain.csproj",
   "expectedPackageFiles": [
     "/Users/niyazrizvanov/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/niyazrizvanov/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",

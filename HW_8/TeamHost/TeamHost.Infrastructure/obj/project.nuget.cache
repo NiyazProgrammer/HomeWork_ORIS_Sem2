@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NfSz/58+bFFqOUJYjmbQYB5eAiWC53VkVEy4AgSPtLE5V0N9ZwB3QmVUio3Ln5exHn+cBsl3Xs6Bh1UoeKF+2Q==",
+  "dgSpecHash": "vxTK2Lu08iATs7K8bwPVpKhedGH02D1+fU8aNbDk/MGYJaRr2iaoaTvgKOP/OiDrrqLphdTerct5cn0ia6uqCQ==",
   "success": true,
-  "projectFilePath": "/Users/niyazrizvanov/ORIS_Semestr_2/TeamHost/TeamHost.Infrastructure/TeamHost.Infrastructure.csproj",
+  "projectFilePath": "/Users/niyazrizvanov/ORIS_Semestr_2/HomeWorks/HomeWork_ORIS_Sem2/HW_8/TeamHost/TeamHost.Infrastructure/TeamHost.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/niyazrizvanov/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "/Users/niyazrizvanov/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
